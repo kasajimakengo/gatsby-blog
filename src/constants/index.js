@@ -1,22 +1,22 @@
 exports.CONTENT_PER_PAGE = 8;
 exports.PAGE_PER_SCREEN = 4;
 
-exports.POST = 'post';
-exports.PORTFOLIO = 'portfolio';
-exports.RESUME = 'resume';
+exports.POST = '記事一覧';
+exports.PORTFOLIO = '作成物';
+exports.RESUME = '経歴';
 
 // Site Information
-exports.NAME = '冴えない赤阪のエンジニアの日常を記したもの';
+exports.NAME = '冴えない赤阪のエンジニアの日常ブログ';
 exports.TITLE = '冴えない赤阪のエンジニアの日常ブログ';
-exports.PREFIX = 'WONISM | ';
-exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
+exports.PREFIX = 'KASAJIMA | ';
+exports.DESCRIPTION = '冴えない赤阪のエンジニアの日常を記したブログ';
 exports.AUTHOR = 'kasajima';
 exports.EMAIL = '';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
 ].join(', ');
-exports.SITE_URL = 'https://wonism.github.io';
+exports.SITE_URL = 'https://reverent-boyd-001427.netlify.com/';
 exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
 
 // Social
