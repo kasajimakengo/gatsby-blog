@@ -6,12 +6,12 @@ exports.PORTFOLIO = 'portfolio';
 exports.RESUME = 'resume';
 
 // Site Information
-exports.NAME = 'Gatsby Advanced Blog';
-exports.TITLE = 'Gatsby Advanced Blog';
+exports.NAME = '冴えない赤阪のエンジニアの日常を記したもの';
+exports.TITLE = '冴えない赤阪のエンジニアの日常ブログ';
 exports.PREFIX = 'WONISM | ';
 exports.DESCRIPTION = 'Create your own blog with Gatsby Advanced Blog';
-exports.AUTHOR = 'wonism';
-exports.EMAIL = 'yocee57@gmail.com';
+exports.AUTHOR = 'kasajima';
+exports.EMAIL = '';
 exports.KEYWORDS = [
   'Gatsby',
   'ReactJS',
@@ -20,10 +20,10 @@ exports.SITE_URL = 'https://wonism.github.io';
 exports.PROFILE = 'https://avatars3.githubusercontent.com/u/42737121?s=200&v=4';
 
 // Social
-exports.GITHUB_ID = 'wonism';
-exports.TWITTER_ID = 'j1ism';
-exports.FACEBOOK_ID = 'j1.chic';
-exports.LINKEDIN_ID = 'wonism';
+exports.GITHUB_ID = 'kasajimakengo';
+exports.TWITTER_ID = 'tyappei';
+exports.FACEBOOK_ID = 'sample';
+exports.LINKEDIN_ID = 'sample';
 
 // Disqus (Recommend you to use this)
 exports.DISQUS_ID = 'sample';
